@@ -1,5 +1,4 @@
 # Face_emotion_recognition-master
-# Face_emotion_recognition
   We explore human recognition system to identify 7 types of emotions by using ***FER2013 dataset.***
   Further we build neural network and train our model using fer2013 dataset. Finally, we evaluate 
   the accuracy and predict facial emotions by giving pics as inputs and also by camera. 
